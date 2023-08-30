@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto META" src=".github/README.png" width="100%">
+  <img alt="README.png" src=".github/README.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
