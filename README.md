@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="README.png" src=".github/README.png" width="100%">
+  <img src=".github/README.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -22,3 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML 
 - CSS
 - JavaScript
+- Google Firebase
