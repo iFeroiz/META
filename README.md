@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>;
+  <a href="#-tecnologias">Tecnologias</a>
 </p>
 
 <p align="center">
@@ -24,5 +24,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Google Firebase
 <p align="center">
-  <a href="https://m-eta.web.app">Acesse!</a>;
+  <a href="https://m-eta.web.app">Acesse!</a>
 </p>
